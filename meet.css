@@ -159,23 +159,7 @@
   .image:first-child {
     display: none;
   }
-  @media (min-width: 1px) and (max-width: 480px) {
-    .image:nth-child(2) {
-      width: 150px;
-      right: 2%;
-      top: 14%;
-    }
-    .image:nth-child(3) {
-      width: 110px;
-      left: 15%;
-      top: 15%;
-    }
-    .image:nth-child(6) {
-      width: 150px;
-      right: 2%;
-      top: 65%;
-    }
-  }
+
   .image:nth-child(2) {
     width: 150px;
     right: 2%;
